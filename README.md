@@ -1,2 +1,2 @@
-# terraform-aws-lambda
-An example of creating aт AWS Lambda function
+# terraform-aws-rabbitmq cluster
+An example of creating aт AWS Rabbitmq cluster
